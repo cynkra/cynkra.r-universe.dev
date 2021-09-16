@@ -2,5 +2,13 @@
     {
         "package": "fledge",
         "url": "https://github.com/cynkra/fledge"
+    },    
+    {
+        "package": "indiedown",
+        "url": "https://github.com/cynkra/indiedown"
+    },    
+    {
+        "package": "dm",
+        "url": "https://github.com/cynkra/dm"
     }
 ]
