@@ -10,5 +10,17 @@
     {
         "package": "dm",
         "url": "https://github.com/cynkra/dm"
+    },    
+    {
+        "package": "cynkrathis",
+        "url": "https://github.com/cynkra/cynkrathis"
+    },    
+    {
+        "package": "munch",
+        "url": "https://github.com/cynkra/munch"
+    },    
+    {
+        "package": "tv",
+        "url": "https://github.com/cynkra/tv"
     }
 ]
