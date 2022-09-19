@@ -22,5 +22,9 @@
     {
         "package": "tv",
         "url": "https://github.com/cynkra/tv"
+    },    
+    {
+        "package": "traudem",
+        "url": "https://github.com/cynkra/traudem"
     }
 ]
