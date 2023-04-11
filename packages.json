@@ -18,7 +18,11 @@
     {
         "package": "indiedown",
         "url": "https://github.com/cynkra/indiedown"
-    },    
+    },     
+    {
+        "package": "lazytest",
+        "url": "https://github.com/cynkra/lazytest"
+    },   
     {
         "package": "munch",
         "url": "https://github.com/cynkra/munch"
