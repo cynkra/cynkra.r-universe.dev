@@ -1,5 +1,9 @@
 [
     {
+        "package": "codegrip",
+        "url": "https://github.com/lionel-/codegrip"
+    },    
+    {
         "package": "constructive",
         "url": "https://github.com/cynkra/constructive"
     },    
