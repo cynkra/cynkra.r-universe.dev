@@ -1,5 +1,9 @@
 [
     {
+        "package": "boomer",
+        "url": "https://github.com/moodymudskipper/boomer"
+    },    
+    {
         "package": "codegrip",
         "url": "https://github.com/lionel-/codegrip"
     },    
