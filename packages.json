@@ -20,6 +20,11 @@
         "url": "https://github.com/cynkra/dm"
     },    
     {
+        "package": "duckdb",
+        "url": "https://github.com/krlmlr/duckdb",
+        "subdir": "tools/rpkg"
+    },    
+    {
         "package": "fledge",
         "url": "https://github.com/cynkra/fledge"
     },    
