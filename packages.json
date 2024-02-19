@@ -41,6 +41,10 @@
         "url": "https://github.com/cynkra/munch"
     },    
     {
+        "package": "struct",
+        "url": "https://github.com/cynkra/struct"
+    },    
+    {
         "package": "tv",
         "url": "https://github.com/cynkra/tv"
     }
