@@ -42,5 +42,9 @@
     {
         "package": "tv",
         "url": "https://github.com/cynkra/tv"
+    },
+    {
+        "package": "rchroma",
+        "url": "https://github.com/cynkra/rchroma"
     }
 ]
