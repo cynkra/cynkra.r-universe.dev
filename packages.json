@@ -1,5 +1,9 @@
 [
     {
+        "package": "blockr.gt",
+        "url": "https://github.com/cynkra/blockr.gt"
+    }, 
+    {
         "package": "boomer",
         "url": "https://github.com/moodymudskipper/boomer"
     },    
