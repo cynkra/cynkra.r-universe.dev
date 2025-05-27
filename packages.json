@@ -12,7 +12,7 @@
     "url": "https://github.com/r-dbi/adbi",
     "medata": {
       "category": "Database",
-      "cynkra_team_members": "nicolas, kirill"
+      "cynkra_team_members": ["nicolas", "kirill"]
     }
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://github.com/cynkra/blockr.ai",
     "medata": {
       "category": "LLM",
-      "cynkra_team_members": "david, nicolas, christoph"
+      "cynkra_team_members": ["david", "nicolas", "christoph"]
     }
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://github.com/cynkra/blockr.core",
     "medata": {
       "category": "Shiny",
-      "cynkra_team_members": "david, nicolas, christoph"
+      "cynkra_team_members": ["david", "nicolas", "christoph"]
     }
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://github.com/cynkra/blockr.ui/",
     "medata": {
       "category": "Shiny",
-      "cynkra_team_members": "david, nicolas, christoph"
+      "cynkra_team_members": ["david", "nicolas", "christoph"]
     }
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://github.com/moodymudskipper/boomer",
     "medata": {
       "category": null,
-      "cynkra_team_members": "antoine, kirill"
+      "cynkra_team_members": ["antoine", "kirill"]
     }
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://github.com/cynkra/cheetahR",
     "medata": {
       "category": "Shiny",
-      "cynkra_team_members": "olajoke, david"
+      "cynkra_team_members": ["olajoke", "david"]
     }
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://github.com/cynkra/constructive",
     "medata": {
       "category": "Development",
-      "cynkra_team_members": "antoine, kirill"
+      "cynkra_team_members": ["antoine", "kirill"]
     }
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://github.com/christophsax/dataseries",
     "medata": {
       "category": "Datasets",
-      "cynkra_team_members": "christoph, jannes"
+      "cynkra_team_members": ["christoph", "jannes"]
     }
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://github.com/cynkra/dm/",
     "medata": {
       "category": "Database",
-      "cynkra_team_members": "kirill, tobias"
+      "cynkra_team_members": ["kirill", "tobias"]
     }
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://github.com/cynkra/dockViewR",
     "medata": {
       "category": "Shiny",
-      "cynkra_team_members": "david, nicolas, nelson"
+      "cynkra_team_members": ["david", "nicolas", "nelson"]
     }
   },
   {
@@ -188,7 +188,7 @@
     "url": "https://github.com/cynkra/fledge/",
     "medata": {
       "category": "Development",
-      "cynkra_team_members": "kirill, maelle"
+      "cynkra_team_members": ["kirill", "maelle"]
     }
   },
   {
@@ -204,7 +204,7 @@
     "url": "https://github.com/moodymudskipper/flow",
     "medata": {
       "category": "Development",
-      "cynkra_team_members": "antoine, kirill"
+      "cynkra_team_members": ["antoine", "kirill"]
     }
   },
   {
@@ -244,7 +244,7 @@
     "url": "https://github.com/igraph/rigraph",
     "medata": {
       "category": "Networks",
-      "cynkra_team_members": "kirill, maelle, david.schoch"
+      "cynkra_team_members": ["kirill", "maelle", "david.schoch"]
     }
   },
   {
@@ -252,7 +252,7 @@
     "url": "https://github.com/igraph/igraphdata",
     "medata": {
       "category": "Networks",
-      "cynkra_team_members": "kirill, maelle, david.schoch"
+      "cynkra_team_members": ["kirill", "maelle", "david.schoch"]
     }
   },
   {
@@ -260,7 +260,7 @@
     "url": "https://github.com/cynkra/indiedown",
     "medata": {
       "category": "Reporting",
-      "cynkra_team_members": "angelica, christoph, kirill"
+      "cynkra_team_members": ["angelica", "christoph", "kirill"]
     }
   },
   {
@@ -284,7 +284,7 @@
     "url": "https://github.com/cynkra/munch",
     "medata": {
       "category": "Datasets",
-      "cynkra_team_members": "kirill, tobias"
+      "cynkra_team_members": ["kirill", "tobias"]
     }
   },
   {
@@ -364,7 +364,7 @@
     "url": "https://github.com/cynkra/rchroma",
     "medata": {
       "category": "LLM",
-      "cynkra_team_members": "david.schoch, christoph"
+      "cynkra_team_members": ["david.schoch", "christoph"]
     }
   },
   {
@@ -524,7 +524,7 @@
     "url": "https://github.com/cynkra/struct",
     "medata": {
       "category": null,
-      "cynkra_team_members": "antoine, kirill"
+      "cynkra_team_members": ["antoine", "kirill"]
     }
   },
   {
@@ -580,7 +580,7 @@
     "url": "https://github.com/cynkra/tv",
     "medata": {
       "category": "Convenience",
-      "cynkra_team_members": "kirill, christoph"
+      "cynkra_team_members": ["kirill", "christoph"]
     }
   },
   {
