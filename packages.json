@@ -2,7 +2,7 @@
   {
     "package": "adaR",
     "url": "https://github.com/gesistsa/adaR",
-    "medata": {
+    "metadata": {
       "category": "Data handling",
       "cynkra_team_members": "david.schoch"
     }
@@ -10,7 +10,7 @@
   {
     "package": "adbi",
     "url": "https://github.com/r-dbi/adbi",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": ["nicolas", "kirill"]
     }
@@ -18,7 +18,7 @@
   {
     "package": "argonDash",
     "url": "https://github.com/RinteRface/argonDash",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -26,7 +26,7 @@
   {
     "package": "ask",
     "url": "https://github.com/moodymudskipper/ask",
-    "medata": {
+    "metadata": {
       "category": "LLM",
       "cynkra_team_members": "antoine"
     }
@@ -34,7 +34,7 @@
   {
     "package": "blob",
     "url": "https://github.com/krlmlr/blob",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "kirill"
     }
@@ -42,7 +42,7 @@
   {
     "package": "blockr.ai",
     "url": "https://github.com/cynkra/blockr.ai",
-    "medata": {
+    "metadata": {
       "category": "LLM",
       "cynkra_team_members": ["david", "nicolas", "christoph"]
     }
@@ -50,7 +50,7 @@
   {
     "package": "blockr.core",
     "url": "https://github.com/cynkra/blockr.core",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": ["david", "nicolas", "christoph"]
     }
@@ -58,7 +58,7 @@
   {
     "package": "blockr.ui",
     "url": "https://github.com/cynkra/blockr.ui/",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": ["david", "nicolas", "christoph"]
     }
@@ -66,7 +66,7 @@
   {
     "package": "boomer",
     "url": "https://github.com/moodymudskipper/boomer",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": ["antoine", "kirill"]
     }
@@ -74,7 +74,7 @@
   {
     "package": "bs4Dash",
     "url": "https://github.com/RinteRface/bs4Dash",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -82,7 +82,7 @@
   {
     "package": "caPO4Sim",
     "url": "https://github.com/DivadNojnarg/caPO4Sim",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -90,7 +90,7 @@
   {
     "package": "charpente",
     "url": "https://github.com/RinteRface/charpente/",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -98,7 +98,7 @@
   {
     "package": "cheetahR",
     "url": "https://github.com/cynkra/cheetahR",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": ["olajoke", "david"]
     }
@@ -106,7 +106,7 @@
   {
     "package": "connectViz",
     "url": "https://github.com/RinteRface/connectviz/",
-    "medata": {
+    "metadata": {
       "category": "Viz",
       "cynkra_team_members": "david"
     }
@@ -114,7 +114,7 @@
   {
     "package": "constructive",
     "url": "https://github.com/cynkra/constructive",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": ["antoine", "kirill"]
     }
@@ -122,7 +122,7 @@
   {
     "package": "dataseries",
     "url": "https://github.com/christophsax/dataseries",
-    "medata": {
+    "metadata": {
       "category": "Datasets",
       "cynkra_team_members": ["christoph", "jannes"]
     }
@@ -130,7 +130,7 @@
   {
     "package": "DBI",
     "url": "https://github.com/r-dbi/DBI",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -138,7 +138,7 @@
   {
     "package": "DBItest",
     "url": "https://github.com/r-dbi/DBItest",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -146,7 +146,7 @@
   {
     "package": "devtag",
     "url": "https://github.com/moodymudskipper/devtag",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "antoine"
     }
@@ -154,7 +154,7 @@
   {
     "package": "dm",
     "url": "https://github.com/cynkra/dm/",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": ["kirill", "tobias"]
     }
@@ -162,7 +162,7 @@
   {
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": ["david", "nicolas", "nelson"]
     }
@@ -170,7 +170,7 @@
   {
     "package": "duckdb",
     "url": "https://github.com/duckdb/duckdb-r",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -178,7 +178,7 @@
   {
     "package": "duckplyr",
     "url": "https://github.com/tidyverse/duckplyr",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -186,7 +186,7 @@
   {
     "package": "fledge",
     "url": "https://github.com/cynkra/fledge/",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": ["kirill", "maelle"]
     }
@@ -194,7 +194,7 @@
   {
     "package": "flow",
     "url": "https://github.com/moodymudskipper/flow",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "antoine"
     }
@@ -202,7 +202,7 @@
   {
     "package": "flow",
     "url": "https://github.com/moodymudskipper/flow",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": ["antoine", "kirill"]
     }
@@ -210,7 +210,7 @@
   {
     "package": "geocompkg",
     "url": "https://github.com/geocompx/geocompkg",
-    "medata": {
+    "metadata": {
       "category": "Spatial",
       "cynkra_team_members": "jannes"
     }
@@ -218,7 +218,7 @@
   {
     "package": "graphlayouts",
     "url": "https://github.com/schochastics/graphlayouts",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": "david.schoch"
     }
@@ -226,7 +226,7 @@
   {
     "package": "here",
     "url": "https://github.com/r-lib/here",
-    "medata": {
+    "metadata": {
       "category": "Convenience",
       "cynkra_team_members": "kirill"
     }
@@ -234,7 +234,7 @@
   {
     "package": "hms",
     "url": "https://github.com/tidyverse/hms",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "kirill"
     }
@@ -242,7 +242,7 @@
   {
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": ["kirill", "maelle", "david.schoch"]
     }
@@ -250,7 +250,7 @@
   {
     "package": "igraphdata",
     "url": "https://github.com/igraph/igraphdata",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": ["kirill", "maelle", "david.schoch"]
     }
@@ -258,7 +258,7 @@
   {
     "package": "indiedown",
     "url": "https://github.com/cynkra/indiedown",
-    "medata": {
+    "metadata": {
       "category": "Reporting",
       "cynkra_team_members": ["angelica", "christoph", "kirill"]
     }
@@ -266,7 +266,7 @@
   {
     "package": "mockr",
     "url": "https://github.com/krlmlr/mockr",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "kirill"
     }
@@ -274,7 +274,7 @@
   {
     "package": "mockthat",
     "url": "https://github.com/nbenn/mockthat",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "nicolas"
     }
@@ -282,7 +282,7 @@
   {
     "package": "munch",
     "url": "https://github.com/cynkra/munch",
-    "medata": {
+    "metadata": {
       "category": "Datasets",
       "cynkra_team_members": ["kirill", "tobias"]
     }
@@ -290,7 +290,7 @@
   {
     "package": "netrankr",
     "url": "https://github.com/schochastics/netrankr",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": "david.schoch"
     }
@@ -298,7 +298,7 @@
   {
     "package": "netUtils",
     "url": "https://github.com/schochastics/netUtils",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": "david.schoch"
     }
@@ -306,7 +306,7 @@
   {
     "package": "opt",
     "url": "https://github.com/moodymudskipper/opt",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "antoine"
     }
@@ -314,7 +314,7 @@
   {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
-    "medata": {
+    "metadata": {
       "category": "Data handling",
       "cynkra_team_members": "kirill"
     }
@@ -322,7 +322,7 @@
   {
     "package": "pkg",
     "url": "https://github.com/moodymudskipper/pkg",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "antoine"
     }
@@ -330,7 +330,7 @@
   {
     "package": "plogr",
     "url": "https://github.com/krlmlr/plogr",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "kirill"
     }
@@ -338,7 +338,7 @@
   {
     "package": "procmaps",
     "url": "https://github.com/r-prof/procmaps",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "kirill"
     }
@@ -346,7 +346,7 @@
   {
     "package": "profile",
     "url": "https://github.com/r-prof/profile",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "kirill"
     }
@@ -354,7 +354,7 @@
   {
     "package": "qgisprocess",
     "url": "https://github.com/r-spatial/qgisprocess",
-    "medata": {
+    "metadata": {
       "category": "Spatial",
       "cynkra_team_members": "jannes"
     }
@@ -362,7 +362,7 @@
   {
     "package": "rchroma",
     "url": "https://github.com/cynkra/rchroma",
-    "medata": {
+    "metadata": {
       "category": "LLM",
       "cynkra_team_members": ["david.schoch", "christoph"]
     }
@@ -370,7 +370,7 @@
   {
     "package": "refactor",
     "url": "https://github.com/moodymudskipper/refactor",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "antoine"
     }
@@ -378,7 +378,7 @@
   {
     "package": "replace",
     "url": "https://github.com/moodymudskipper/replace",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "antoine"
     }
@@ -386,7 +386,7 @@
   {
     "package": "RMariaDB",
     "url": "https://github.com/r-dbi/RMariaDB",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -394,7 +394,7 @@
   {
     "package": "roxygen2md",
     "url": "https://github.com/r-lib/roxygen2md",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "kirill"
     }
@@ -402,7 +402,7 @@
   {
     "package": "RPostgres",
     "url": "https://github.com/r-dbi/RPostgres",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -410,7 +410,7 @@
   {
     "package": "rprojroot",
     "url": "https://github.com/r-lib/rprojroot",
-    "medata": {
+    "metadata": {
       "category": "Convenience",
       "cynkra_team_members": "kirill"
     }
@@ -418,7 +418,7 @@
   {
     "package": "RSQLite",
     "url": "https://github.com/r-dbi/RSQLite",
-    "medata": {
+    "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
     }
@@ -426,7 +426,7 @@
   {
     "package": "rtoot",
     "url": "https://github.com/gesistsa/rtoot",
-    "medata": {
+    "metadata": {
       "category": "Data gathering",
       "cynkra_team_members": "david.schoch"
     }
@@ -434,7 +434,7 @@
   {
     "package": "scoutbaR",
     "url": "https://github.com/cynkra/scoutbaR",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -442,7 +442,7 @@
   {
     "package": "seasonal",
     "url": "https://github.com/christophsax/seasonal",
-    "medata": {
+    "metadata": {
       "category": "Time series",
       "cynkra_team_members": "christoph"
     }
@@ -450,7 +450,7 @@
   {
     "package": "shiny386",
     "url": "https://github.com/RinteRface/shiny386",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -458,7 +458,7 @@
   {
     "package": "shinydashboardPlus",
     "url": "https://github.com/RinteRface/shinydashboardPlus",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -466,7 +466,7 @@
   {
     "package": "shinyHeatmap",
     "url": "https://github.com/RinteRface/shinyHeatmap",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -474,7 +474,7 @@
   {
     "package": "shinyMobile",
     "url": "https://github.com/RinteRface/shinyMobile/",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -482,7 +482,7 @@
   {
     "package": "shinyMons",
     "url": "https://github.com/DivadNojnarg/shinyMons",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -490,7 +490,7 @@
   {
     "package": "shinyNextUI",
     "url": "https://github.com/RinteRface/shinyNextUI",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -498,7 +498,7 @@
   {
     "package": "signnet",
     "url": "https://github.com/schochastics/signnet",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": "david.schoch"
     }
@@ -506,7 +506,7 @@
   {
     "package": "snahelper",
     "url": "https://github.com/schochastics/snahelper",
-    "medata": {
+    "metadata": {
       "category": "Networks",
       "cynkra_team_members": "david.schoch"
     }
@@ -514,7 +514,7 @@
   {
     "package": "spDataLarge",
     "url": "https://github.com/Nowosad/spDataLarge",
-    "medata": {
+    "metadata": {
       "category": "Spatial",
       "cynkra_team_members": "jannes"
     }
@@ -522,7 +522,7 @@
   {
     "package": "struct",
     "url": "https://github.com/cynkra/struct",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": ["antoine", "kirill"]
     }
@@ -530,7 +530,7 @@
   {
     "package": "tablerDash",
     "url": "https://github.com/RinteRface/tablerDash",
-    "medata": {
+    "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
     }
@@ -538,7 +538,7 @@
   {
     "package": "tempdisagg",
     "url": "https://github.com/christophsax/tempdisagg",
-    "medata": {
+    "metadata": {
       "category": "Time series",
       "cynkra_team_members": "christoph"
     }
@@ -546,7 +546,7 @@
   {
     "package": "tibble",
     "url": "https://github.com/tidyverse/tibble",
-    "medata": {
+    "metadata": {
       "category": "Data handling",
       "cynkra_team_members": "kirill"
     }
@@ -554,7 +554,7 @@
   {
     "package": "timeless",
     "url": "https://github.com/schochastics/timeless",
-    "medata": {
+    "metadata": {
       "category": "Data handling",
       "cynkra_team_members": "david.schoch"
     }
@@ -562,7 +562,7 @@
   {
     "package": "tmap",
     "url": "https://github.com/r-tmap/tmap",
-    "medata": {
+    "metadata": {
       "category": "Spatial",
       "cynkra_team_members": "jannes"
     }
@@ -570,7 +570,7 @@
   {
     "package": "tsbox",
     "url": "https://github.com/ropensci/tsbox",
-    "medata": {
+    "metadata": {
       "category": "Time series",
       "cynkra_team_members": "christoph"
     }
@@ -578,7 +578,7 @@
   {
     "package": "tv",
     "url": "https://github.com/cynkra/tv",
-    "medata": {
+    "metadata": {
       "category": "Convenience",
       "cynkra_team_members": ["kirill", "christoph"]
     }
@@ -586,7 +586,7 @@
   {
     "package": "typed",
     "url": "https://github.com/moodymudskipper/typed",
-    "medata": {
+    "metadata": {
       "category": null,
       "cynkra_team_members": "antoine"
     }
@@ -594,7 +594,7 @@
   {
     "package": "winch",
     "url": "https://github.com/r-prof/winch",
-    "medata": {
+    "metadata": {
       "category": "Development",
       "cynkra_team_members": "kirill"
     }
@@ -602,7 +602,7 @@
   {
     "package": "wrswoR",
     "url": "https://github.com/krlmlr/wrswoR",
-    "medata": {
+    "metadata": {
       "category": "Statistics",
       "cynkra_team_members": "kirill"
     }
@@ -610,7 +610,7 @@
   {
     "package": "x13binary",
     "url": "https://github.com/x13org/x13binary",
-    "medata": {
+    "metadata": {
       "category": "Time series",
       "cynkra_team_members": "christoph"
     }
