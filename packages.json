@@ -67,7 +67,7 @@
     "package": "boomer",
     "url": "https://github.com/moodymudskipper/boomer",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": ["antoine", "kirill"]
     }
   },
@@ -107,7 +107,7 @@
     "package": "connectViz",
     "url": "https://github.com/RinteRface/connectviz/",
     "metadata": {
-      "category": "Viz",
+      "category": "Shiny",
       "cynkra_team_members": "david"
     }
   },
@@ -147,7 +147,7 @@
     "package": "devtag",
     "url": "https://github.com/moodymudskipper/devtag",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "antoine"
     }
   },
@@ -235,7 +235,7 @@
     "package": "hms",
     "url": "https://github.com/tidyverse/hms",
     "metadata": {
-      "category": null,
+      "category": "Data handling",
       "cynkra_team_members": "kirill"
     }
   },
@@ -267,7 +267,7 @@
     "package": "mockr",
     "url": "https://github.com/krlmlr/mockr",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "kirill"
     }
   },
@@ -307,7 +307,7 @@
     "package": "opt",
     "url": "https://github.com/moodymudskipper/opt",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "antoine"
     }
   },
@@ -323,7 +323,7 @@
     "package": "pkg",
     "url": "https://github.com/moodymudskipper/pkg",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "antoine"
     }
   },
@@ -339,7 +339,7 @@
     "package": "procmaps",
     "url": "https://github.com/r-prof/procmaps",
     "metadata": {
-      "category": null,
+      "category": "Data handling",
       "cynkra_team_members": "kirill"
     }
   },
@@ -379,7 +379,7 @@
     "package": "replace",
     "url": "https://github.com/moodymudskipper/replace",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "antoine"
     }
   },
