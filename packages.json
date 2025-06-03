@@ -80,8 +80,8 @@
     }
   },
   {
-    "package": "caPO4Sim",
-    "url": "https://github.com/DivadNojnarg/caPO4Sim",
+    "package": "CaPO4Sim",
+    "url": "https://github.com/DivadNojnarg/CaPO4Sim",
     "metadata": {
       "category": "Shiny",
       "cynkra_team_members": "david"
