@@ -35,7 +35,7 @@
     "package": "blob",
     "url": "https://github.com/krlmlr/blob",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "kirill"
     }
   },
@@ -523,7 +523,7 @@
     "package": "struct",
     "url": "https://github.com/cynkra/struct",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": ["antoine", "kirill"]
     }
   },
@@ -587,7 +587,7 @@
     "package": "typed",
     "url": "https://github.com/moodymudskipper/typed",
     "metadata": {
-      "category": null,
+      "category": "Development",
       "cynkra_team_members": "antoine"
     }
   },
