@@ -196,14 +196,6 @@
     "url": "https://github.com/moodymudskipper/flow",
     "metadata": {
       "category": "Development",
-      "cynkra_team_members": "antoine"
-    }
-  },
-  {
-    "package": "flow",
-    "url": "https://github.com/moodymudskipper/flow",
-    "metadata": {
-      "category": "Development",
       "cynkra_team_members": ["antoine", "kirill"]
     }
   },
