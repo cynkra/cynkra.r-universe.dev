@@ -144,6 +144,14 @@
     }
   },
   {
+    "package": "dd",
+    "url": "https://github.com/cynkra/dd",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
     "package": "devtag",
     "url": "https://github.com/moodymudskipper/devtag",
     "metadata": {
