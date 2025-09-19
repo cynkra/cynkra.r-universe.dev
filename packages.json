@@ -177,7 +177,7 @@
   },
   {
     "package": "duckdb",
-    "url": "https://github.com/duckdb/duckdb-r",
+    "url": "https://github.com/krlmlr/duckdb-r",
     "metadata": {
       "category": "Database",
       "cynkra_team_members": "kirill"
