@@ -32,6 +32,22 @@
     }
   },
   {
+    "package": "bindr",
+    "url": "https://github.com/krlmlr/bindr",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "bindrcpp",
+    "url": "https://github.com/krlmlr/bindrcpp",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
     "package": "blob",
     "url": "https://github.com/tidyverse/blob",
     "metadata": {
@@ -261,6 +277,22 @@
     "metadata": {
       "category": "Reporting",
       "cynkra_team_members": ["angelica", "christoph", "kirill"]
+    }
+  },
+  {
+    "package": "kimisc",
+    "url": "https://github.com/krlmlr/kimisc",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "MakefileR",
+    "url": "https://github.com/krlmlr/MakefileR",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
     }
   },
   {
@@ -589,6 +621,14 @@
     "metadata": {
       "category": "Development",
       "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "utf8",
+    "url": "https://github.com/krlmlr/utf8",
+    "metadata": {
+      "category": "Data handling",
+      "cynkra_team_members": "kirill"
     }
   },
   {
