@@ -137,7 +137,7 @@
   },
   {
     "package": "dataseries",
-    "url": "https://github.com/christophsax/dataseries",
+    "url": "https://github.com/cynkra/dataseries",
     "metadata": {
       "category": "Datasets",
       "cynkra_team_members": ["christoph", "jannes"]
@@ -569,7 +569,7 @@
   },
   {
     "package": "tempdisagg",
-    "url": "https://github.com/christophsax/tempdisagg",
+    "url": "https://github.com/cynkra/tempdisagg",
     "metadata": {
       "category": "Time series",
       "cynkra_team_members": "christoph"
