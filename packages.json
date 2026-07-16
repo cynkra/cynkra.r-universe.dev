@@ -232,6 +232,14 @@
     }
   },
   {
+    "package": "g6R",
+    "url": "https://github.com/cynkra/g6R",
+    "metadata": {
+      "category": "Other",
+      "cynkra_team_members": ["david", "david.schoch"]
+    }
+  },
+  {
     "package": "geocompkg",
     "url": "https://github.com/geocompx/geocompkg",
     "metadata": {
