@@ -81,7 +81,7 @@
   },
   {
     "package": "blockr.ui",
-    "url": "https://github.com/cynkra/blockr.ui/",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ui/",
     "metadata": {
       "category": "Shiny",
       "cynkra_team_members": ["david", "nicolas", "christoph"]
