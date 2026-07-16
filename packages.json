@@ -72,6 +72,14 @@
     }
   },
   {
+    "package": "blockr.gt",
+    "url": "https://github.com/cynkra/blockr.gt",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": ["mike"]
+    }
+  },
+  {
     "package": "blockr.ui",
     "url": "https://github.com/cynkra/blockr.ui/",
     "metadata": {
