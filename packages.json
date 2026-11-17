@@ -304,14 +304,6 @@
     }
   },
   {
-    "package": "MakefileR",
-    "url": "https://github.com/krlmlr/MakefileR",
-    "metadata": {
-      "category": "Development",
-      "cynkra_team_members": "kirill"
-    }
-  },
-  {
     "package": "mockr",
     "url": "https://github.com/krlmlr/mockr",
     "metadata": {
